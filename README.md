@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando C# .Net e Python
-- 😄 Você vai ver por aqui alguns projetos que utilizo para estudos da minha graduação em Análise e Desenvolvimento de Sistemas e também alguns projetos pessoais que desenvolvo para aprendizado da linguagem C#. 
+- 😄 Você vai ver por aqui alguns projetos que utilizo para estudos da minha graduação em Análise e Desenvolvimento de Sistemas, onde a linguagem de programação Python é bastante utilizada, e também, alguns projetos pessoais que desenvolvo para aprendizado da linguagem C#. 
 
 
 <div align="center">
@@ -11,9 +11,10 @@
   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialauriano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leticia-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Leticia-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Leticia-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ 
 </div>
   
   ##
