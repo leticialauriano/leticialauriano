@@ -1,8 +1,9 @@
-### Oiii! Eu sou a Letícia Lauriano 
+### Olá, Eu sou a Letícia! 👋
 
 
-- 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Ela/dela
+- 🌱 Estudando C# .Net e Python
+- 😄 Você vai ver por aqui alguns projetos que utilizo para estudos da minha graduação em Análise e Desenvolvimento de Sistemas e também alguns projetos pessoais que desenvolvo para aprendizado da linguagem C#. 
+
 
 <div align="center">
   <a href="https://github.com/leticialauriano">
